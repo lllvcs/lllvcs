@@ -1,16 +1,14 @@
-### Hi there 👋
+<h2 align="center">
+Hey, all👋
 
-<!--
-**lllvcs/lllvcs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m LYU Chengshang
 
-Here are some ideas to get you started:
+a PhD student majoring in Bioinformatics and Computational Biology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope my repos could help you~
+</h2>
+
+<p align="center">
+<img src="https://github-readme-stats-lllvcs.vercel.app/api?username=lllvcs&theme=radical&show_icons=true?count_private=true&locale=cn&hide_border=false&include_all_commits=true&line_height=40"/>
+<img src="https://github-readme-stats-lllvcs.vercel.app/api/top-langs/?username=lllvcs&theme=radical&locale=cn&hide_border=false"/>
+</p>
